@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="Kryvexcore" width="480"/>
+<img src="logo.png" alt="Kryvexcore" width="480"/>
 
 ### We Create. We Rule.
 
